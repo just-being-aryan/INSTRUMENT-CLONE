@@ -1,0 +1,178 @@
+.navbar-brand{
+
+    font-family : "Bebas Neue";
+    size: 1.5rem;
+    padding-left : 15px;
+    
+}
+
+body{
+    background-color : black;
+}
+
+h1{
+    font-family : 'Schibsted Grotesk';
+    font-weight :700;
+    color : #fff;
+    padding-left : 2rem;
+    padding-top : 200px;
+    
+}
+h3{
+    font-family : 'Montserrat';
+    color : #fff;
+    size : 1.5rem;
+
+}
+
+
+.navbar{
+
+    padding : 1rem 1rem 1rem 1rem;
+   
+
+   
+}
+
+.nav-item{
+
+    
+    padding-right : 18px;
+    font-family : 'Roboto Mono';
+    font-weight : 1.5;
+    size : 1rem;
+}
+
+p{
+    padding-left : 2.5rem;
+    font-family : 'Montserrat';
+    color : #fff;
+    
+}
+
+.one-btn{
+
+    text-align : left;
+    margin-left : 50px;
+    
+
+}
+
+.eye-btn{
+
+    margin-left : 10px;
+}
+.christmas-img{
+    
+    padding-top : 80px;
+    padding-left : 450px;
+
+
+    
+}
+.christmas-text{
+
+    text-align : center;
+    font-size : 2rem;
+    padding : 7% 15%;
+}
+
+.eye-txt{
+
+    font-family : 'Montserrat';
+    color : #fff;
+    size : 1.5rem;
+}
+
+.eye-img{
+    padding-bottom : 30%;
+}
+
+
+.container{
+
+    padding-top : 7%;
+    padding-bottom : 10%;
+    
+}
+
+.lady-text{
+
+    font-family : 'Montserrat';
+    color : #fff;
+    size : 1.5rem;
+}
+
+.lady-btn{
+    text-align : left;
+    
+}
+
+.lady-img{
+
+    padding-bottom : 30%;
+}
+
+.center-text{
+
+    font-family : 'Montserrat';
+    color : #fff;
+    size : 1.5rem;
+    text-align : center;
+}
+
+.work-btn{
+
+
+    margin-left : 880px;
+}
+
+.levi-txt, life{
+    font-family : 'Montserrat';
+    color : #fff;
+    size : 1.5rem;
+}
+
+.life-txt{
+    font-family : 'Montserrat';
+    color : #fff;
+    size : 1.5rem;
+    padding-bottom : 100px;
+}
+
+#about{
+
+    position:relative;
+
+}
+
+.fontawesome{
+
+    color : White;
+}
+
+.Final-txt{
+    font-family : 'Schibsted Grotesk';
+    line-height: 20%;
+    color : #fff;
+    size : 1rem;
+    padding-top : 100px;
+    text-align : center;
+}
+
+.GIT-btn{
+    text-align : center;
+    margin-left : 550px;
+}
+@media(max-width : 1302px)
+{
+    #title{
+        
+        text-align : center;
+
+    }
+    .christmas-img{
+        width : 80%;
+        text-align : center;
+    }
+}
